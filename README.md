@@ -28,11 +28,11 @@ usage
 
 6. start/restart develop_server.py
 
-`pd $ make devserver`
+`pd # make devserver`
 
 7. stop local server
 
-`psp $ make stopserver`
+`psp # make stopserver`
 
 8. upload web site to github
 
