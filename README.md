@@ -10,30 +10,30 @@ usage
 
 `pb # make install`
 
-1. remove the generated files
+2. remove the generated files
 
 `pc # make clean`
 
-1. regenerate files on modification
+3. regenerate files on modification
 
 `pbr # make regernate` 
 
-1. generate using publishconf.py
+4. generate using publishconf.py
 
 `pp # make publish`
 
-1. serve site on localhost:8000
+5. serve site on localhost:8000
 
 `pl # make serve`
 
-1. start/restart develop_server.py
+6. start/restart develop_server.py
 
 `pd $ make devserver`
 
-1. stop local server
+7. stop local server
 
 `psp $ make stopserver`
 
-1. upload web site to github
+8. upload web site to github
 
 `pgit # make github`
